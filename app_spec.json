@@ -1,0 +1,1 @@
+{"name": "92-we-need-to-create-a-comprehens-firebase-041943", "spec": {"port": 8000, "containers": [{"image": "", "name": "92-we-need-to-create-a-comprehens-firebase-041943", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
